@@ -13,7 +13,7 @@ Scenario Outline: TC01_ Create Job Records
 	    	|JobTitle   |JobDescr		 |JobNote		 |
 				|"Sales66"  |"Sales66 descr"|"Sales66 Note"|
 				|"Sales55"  |"Sales55 descr"|"Sales55 Note"|
-				|"Sales44"  |"Sales44 descr"|"Sales7889MALL"|
+				|"Sales44"  |"Sales44 descr"|"Sales44Note"|
 
         
         
